@@ -1,0 +1,159 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.0
+Ehandshake
+Z0 w1617336597
+Z1 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\Arthur\Desktop\Handshake2
+Z6 8C:/Users/Arthur/Desktop/Handshake2/Handshake.vhd
+Z7 FC:/Users/Arthur/Desktop/Handshake2/Handshake.vhd
+l0
+L6
+VMVz36aLHT`F<IATI1_>M<3
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1617338287.565000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Arthur/Desktop/Handshake2/Handshake.vhd|
+Z11 !s107 C:/Users/Arthur/Desktop/Handshake2/Handshake.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 1OzCo6WbnaCaM]F1P:1Dz3
+!i10b 1
+Abehaviour
+R1
+R2
+R3
+R4
+DEx4 work 9 handshake 0 22 MVz36aLHT`F<IATI1_>M<3
+l45
+L19
+VIXACnCZ8_29b67j3Kn1CK1
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 aG0YEZDfRVbC]na>QccO32
+!i10b 1
+Ememoria
+Z14 w1617334227
+R1
+R2
+R3
+R4
+R5
+Z15 8C:/Users/Arthur/Desktop/Handshake2/Memoria.vhd
+Z16 FC:/Users/Arthur/Desktop/Handshake2/Memoria.vhd
+l0
+L6
+V:67_ZT9J6[JL?Z3AnVm]e0
+R8
+32
+Z17 !s108 1617338287.681000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Arthur/Desktop/Handshake2/Memoria.vhd|
+Z19 !s107 C:/Users/Arthur/Desktop/Handshake2/Memoria.vhd|
+R12
+R13
+!s100 dkFNZX]DLKaZ@UET00gQ93
+!i10b 1
+Abehaviour
+R1
+R2
+R3
+R4
+DEx4 work 7 memoria 0 22 :67_ZT9J6[JL?Z3AnVm]e0
+l18
+L13
+Vl1U>=egNXE9T0cD3@;N<I3
+R8
+32
+R17
+R18
+R19
+R12
+R13
+!s100 95:2She@EPD^AMDY8f;0<0
+!i10b 1
+Epc
+Z20 w1617337022
+R2
+R1
+R3
+R4
+R5
+Z21 8C:/Users/Arthur/Desktop/Handshake2/PC.vhd
+Z22 FC:/Users/Arthur/Desktop/Handshake2/PC.vhd
+l0
+L6
+VYDFO^:RFzfKj]TXWhL_eD1
+!s100 =i^hX>cZlDMMJgikISG[M3
+R8
+32
+!i10b 1
+Z23 !s108 1617338287.935000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Arthur/Desktop/Handshake2/PC.vhd|
+Z25 !s107 C:/Users/Arthur/Desktop/Handshake2/PC.vhd|
+R12
+R13
+Artl
+R2
+R1
+R3
+R4
+Z26 DEx4 work 2 pc 0 22 YDFO^:RFzfKj]TXWhL_eD1
+l26
+L21
+Z27 VQFGNfAH67fZ1?HKccAKS32
+Z28 !s100 ajQXOOTb1C?G_L5C4RY`H1
+R8
+32
+!i10b 1
+R23
+R24
+R25
+R12
+R13
+Etb_handshake
+Z29 w1617338279
+Z30 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R3
+R4
+R5
+Z31 8C:/Users/Arthur/Desktop/Handshake2/tb_Handshake.vhd
+Z32 FC:/Users/Arthur/Desktop/Handshake2/tb_Handshake.vhd
+l0
+L9
+Vk_Id@`2A5S@SDK29320ID0
+R8
+32
+Z33 !s108 1617338287.803000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Arthur/Desktop/Handshake2/tb_Handshake.vhd|
+Z35 !s107 C:/Users/Arthur/Desktop/Handshake2/tb_Handshake.vhd|
+R12
+R13
+!s100 _J]_jcOKWg?8FWB5JdKcH0
+!i10b 1
+Artl
+R30
+R3
+R4
+DEx4 work 12 tb_handshake 0 22 k_Id@`2A5S@SDK29320ID0
+l36
+L13
+V^GQX^gln8EM1W>R:UZdf@0
+R8
+32
+R33
+R34
+R35
+R12
+R13
+!s100 Sd7hz[zIDIP0e]>H_KkRk2
+!i10b 1

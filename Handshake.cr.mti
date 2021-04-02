@@ -1,0 +1,78 @@
+D:/altera/13.0/Handshake/tb_Handshake.vhd {1 {vcom -work work -2002 -explicit D:/altera/13.0/Handshake/tb_Handshake.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_Handshake
+-- Compiling architecture rtl of tb_Handshake
+
+} {} {}} C:/Users/Arthur/Desktop/Handshake/Handshake.vhd {1 {vcom -work work -2002 -explicit C:/Users/Arthur/Desktop/Handshake/Handshake.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Handshake
+-- Compiling architecture behaviour of Handshake
+
+} {} {}} C:/Users/Arthur/Desktop/Handshake2/Memoria.vhd {1 {vcom -work work -2002 -explicit C:/Users/Arthur/Desktop/Handshake2/Memoria.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Memoria
+-- Compiling architecture behaviour of Memoria
+
+} {} {}} C:/Users/Arthur/Desktop/Handshake/tb_Handshake.vhd {1 {vcom -work work -2002 -explicit C:/Users/Arthur/Desktop/Handshake/tb_Handshake.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_Handshake
+-- Compiling architecture rtl of tb_Handshake
+
+} {} {}} C:/Users/Arthur/Desktop/Handshake2/PC.vhd {1 {vcom -work work -2002 -explicit C:/Users/Arthur/Desktop/Handshake2/PC.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity PC
+-- Compiling architecture rtl of PC
+
+} {} {}} C:/Users/Arthur/Desktop/Handshake2/Handshake.vhd {1 {vcom -work work -2002 -explicit C:/Users/Arthur/Desktop/Handshake2/Handshake.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Handshake
+-- Compiling architecture behaviour of Handshake
+
+} {} {}} C:/Users/Arthur/Desktop/Handshake2/tb_Handshake.vhd {1 {vcom -work work -2002 -explicit C:/Users/Arthur/Desktop/Handshake2/tb_Handshake.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_Handshake
+-- Compiling architecture rtl of tb_Handshake
+
+} {} {}} D:/altera/13.0/Handshake/Handshake.vhd {1 {vcom -work work -2002 -explicit D:/altera/13.0/Handshake/Handshake.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Handshake
+-- Compiling architecture behaviour of Handshake
+
+} {} {}}
